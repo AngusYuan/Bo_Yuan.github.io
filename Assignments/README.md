@@ -1,2 +1,2 @@
-# ESMEDataAnalytics
-GW EMSE Data Science Course
+# Big Data Analytics
+GW CS Course
