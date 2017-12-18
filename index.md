@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+description: Bo Yuan is an Master Student at The George Washington University. He study CS program and focus on data analytics and data mining.
 keywords: statistics, data analytics
 ---
 
